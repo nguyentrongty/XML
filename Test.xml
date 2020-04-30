@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employee>
+	<Name>Vì nó không có phần tử gốc</Name>
+	<Position>Chef</Position>
+</employee>
+<employee>
+	<Name>Ronnie</Name>
+	<Position>Chef</Position>
+</employee>
