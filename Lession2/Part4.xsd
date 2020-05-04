@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			targetNamespace="http://xmlpowercorp"
+			xmlns="http://xmlpowercorp"
+			elementFormDefault="qualified">
+<xs:element name="FPTAptech"/>
+<xs:complexType>
+	<xs:sequence>
+		<xs:element name = "Student" type ="xs:string"/>
+		<xs:attribute name="StudentType" type="xs:string"/>
+	</xs:sequence>
+</xs:complexType>
+<xs:complexType>
+	<xs:sequence>
+		<xs:element name = "Name" type = "xs:string"/>
+		<xs:element name = "Age" type = "xs:integer"/>
+	</xs:sequence>
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name = "FName" type = "xs:string"/>
+			<xs:element name = "LName" type = "xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:complexType>
+
