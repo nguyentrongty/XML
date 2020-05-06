@@ -1,0 +1,61 @@
+title
+{
+	display: block;
+	font-size: 36pt;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+}
+philosopher
+{
+
+	display: block;
+	font-size: 35pt;
+	text-align: center;
+}
+book
+{
+	display: block;
+	font-size: 28pt;
+	text-align: center;
+	font-style: italic;
+}
+paragraph
+{
+	margin-top: 10;
+}
+.standout
+{
+	color: cyan;
+	background-color: coral;
+}
+/*[class=stadout]
+{
+	color: cyan;
+	background-color: coral;
+}*/
+paragraph.first
+{
+	width: 400px;
+	margin-top: 30;
+	background-color: yellow;
+	float: right;
+	border-style: double;
+	margin-right: 200px;
+}
+paragraph.first1
+{
+	background-color: yellow;
+	width: 400px;
+	margin-top: 30;
+	float: left;
+	border-style: dashed;
+	margin-left: 200px;
+}
+
+/*paragraph[class=first]
+{
+	text-indent: 40;
+	margin-top: 30;
+	background-color: yellow;
+}*/

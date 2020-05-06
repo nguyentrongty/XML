@@ -1,0 +1,13 @@
+greeting {
+	padding-top: 200px;
+	font-size: 40px;
+	display: block;
+	color: red;
+	text-align: center;
+}
+extension {
+	display: block;
+}
+extension.an {
+	color: black;
+}

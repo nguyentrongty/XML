@@ -1,0 +1,43 @@
+Codelean {
+	font-size: 80%;
+	margin: 0.5em;
+	font-family: verdana;
+	display: block;
+}
+Codelean_section {
+	display: block;
+	border: 1px solid silver;
+	margin: 0.5em;
+	padding: 0.5em;
+	background-color: whitesmoke;
+}
+title {
+	display: block;
+	font-weight: bolder;
+	text-align: center;
+	font-size: 30px;
+	background-color: green;
+	color: white;
+}
+Name, Topic1, Topic2, Topic3, Topic4 {
+	display: block;
+	text-align: center;
+}
+Name {
+	color: green;
+	text-decoration: underline;
+	font-size: 20px;
+	font-weight: bolder;
+}
+Topic1 {
+	color: green;
+}
+Topic2 {
+	color: brown;
+}
+Topic3 {
+	color: blue;
+}
+Topic4 {
+	color: orange;
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Rule.css"?>
+<books>
+	<heading>Welcome To Codelean.vn</heading>
+	<book>
+		<title>Title -: Wed Programming</title>
+		<author>Author -: ThiDk</author>
+		<publisher>publisher -: Willy</publisher>
+		<edition>Edition -: 3</edition>
+		<price>Price -: 300 </price>
+	</book>
+	<book>
+		<title>Title -: internet Word</title>
+		<author>Author -: Dang Kim Thi </author>
+		<publisher>pulisher -: person</publisher>
+		<edition>Edition -:3</edition>
+		<price>Price -: 500 </price>
+	</book>
+	<book>
+		<title>Title -: concepts</title>
+		<author>Author -: Trikt</author>
+		<publisher>Publisher -:Mc hill</publisher>
+		<edition>Edition -: 5</edition>
+		<price>Price -: 700</price>
+	</book>
+	<book>
+		<title>Title -: Mcrosof</title>
+		<author>Author -: Trifpt</author>
+		<publisher>Publisher -: Wikey</publisher>
+		<edition>edition -: 9</edition>
+		<price>Price -: 800</price>
+	</book>
+	<book
+		<title>Title -: Noname </title>
+		<author>Author -: Tribk</author>
+		<publisher>Publisher -: Jonhan</publisher>
+		<edition>Edition -: 11</edition>
+		<price>Price -:</price>
