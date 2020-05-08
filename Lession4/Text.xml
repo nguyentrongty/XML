@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<class>
+	<statedata>
+		<name>Canifornia</name>
+		<population>33273448 people</population>
+		<capita>Sacramento</capita>
+		<bird>Quail</bird>
+		<Flower>Goden poppy</Flower>
+		<Area>135959 Square miles</Area>
+	</statedata>
+	<statedata>
+		<name>Massachuset</name>
+		<population>9080282 people</population>
+		<capita>Boston</capita>
+		<bird>Chickade</bird>
+		<Flower>Mayflower</Flower>
+		<Area>89723 Square melis</Area>
+	</statedata>
+	<statedata>
+		<name>New york</name>
+		<population>28373293 people</population>
+		<capita>Albany</capita>
+		<bird>Bluebird</bird>
+		<Flower>Rose</Flower>
+		<Area>4217 Square miles</Area>
+	</statedata>
+</class>
